@@ -27,3 +27,5 @@ t_higashiさん作のTweetConsoleをインストール済みのWindows 7。Tweet
 
 ちなみに"Windows+G"キーがWindowsガジェット専用の"Alt+Tab"キーとして動作します。ガジェット
 をTweetGadgetしか起動していないのであれば、一発でTweetGadgetをアクティブにできます。
+
+TweetConsoleのReadmeを合わせて読んだ上で使ってください。
