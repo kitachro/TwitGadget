@@ -4,7 +4,8 @@ TweetConsoleを利用した投稿専用Twitterクライアント機能を持つW
 
 動作環境
 
-t_higashiさん作のTweetConsoleをインストール済みのWindows 7。
+t_higashiさん作のTweetConsoleをインストール済みのWindows 7。TweetConsoleはベクター
+で公開されています。
 
 インストール
 
