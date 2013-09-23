@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+	<name>TweetGadget</name>
+	<version>2013.09.24</version>
+	<author name="chrono">
+		<info url="lldev.jp" />
+	</author>
+	<copyright>&#0169; 2013</copyright>
+	<description>TweetConsoleを利用した投稿専用Twitterクライアント</description>
+	
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="gadget.html" />
+			<permissions>full</permissions>
+			<platform minPlatformVersion="0.3" />
+		</host>
+	</hosts>
+</gadget>

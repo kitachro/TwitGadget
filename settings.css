@@ -1,0 +1,19 @@
+* {
+	margin:		0;
+	padding:	0;
+}
+
+body {
+	width:	210px;
+	height:	100px;
+}
+
+#exepathinput {
+	width:	200px;
+	height:	20px;
+}
+
+#chooseinput {
+	width:	200px;
+	height:	20px;
+}

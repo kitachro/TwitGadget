@@ -1,0 +1,30 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="MSThemeCompatible" content="yes" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>TwitGadget</title>
+	<link href="gadget.css" rel="stylesheet" type="text/css" />
+	
+	<script src="alert.vbs" type="text/vbscript"></script>
+	<script src="g_const.js" type="text/javascript"></script>
+	<script src="gadget.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<textarea
+		id="tweetarea"
+		wrap="soft"
+		maxlength="140"
+		onkeyup="tweetareaKeyup()"
+	></textarea>
+
+	<input
+		id="twitinput"
+		type="button"
+		value="Twit"
+		onclick="twitinputClicked()"
+	/>
+</body>
+
+</html>

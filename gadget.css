@@ -1,0 +1,19 @@
+*	{
+	margin:		0;
+	padding:	0;
+}
+
+body {
+	width:	300px;
+	height:	100px;
+}
+
+#tweetarea {
+	width:	300px;
+	height:	80px;
+}
+
+#twitinput {
+	width:	300px;
+	height:	20px;
+}
