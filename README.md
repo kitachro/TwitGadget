@@ -41,3 +41,5 @@ TweetConsoleのReadmeを合わせて読んだ上で使ってください。
 
 
 作者: chrono
+https://twitter.com/kitachro
+http://lldev.jp
