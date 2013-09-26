@@ -11,7 +11,8 @@ t_higashiさん作のTweetConsoleをインストール済みのWindows 7。Tweet
 
 ライセンス
 
-このプログラムのすべての関連ファイルにMITライセンスを適用します。ライセンス本文はLICENSE_ja.txtにあります。
+このプログラムのすべての関連ファイルにMITライセンスを適用します。ライセンス本文はLICENSE_ja.
+txtにあります。
 
 
 インストール
