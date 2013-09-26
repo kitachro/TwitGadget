@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <gadget>
-	<name>TweetGadget</name>
+	<name>TwitGadget</name>
 	<version>2013.09.24</version>
 	<author name="chrono">
 		<info url="lldev.jp" />
